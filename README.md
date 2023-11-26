@@ -2,8 +2,9 @@
 
 I’m **Student Learning New Skill In coding journy.**
 
--I’m interested in Programming Language.
--python Developer
+I’m interested in Programming Language.
+
+python Developer
 
 
 <!---
