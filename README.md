@@ -1,6 +1,6 @@
-Hello 
-I’m Student Learning New Skill In coding journy.
-I’m interested in Programming Language.
+-Hello 
+-I’m Student Learning New Skill In coding journy.
+-I’m interested in Programming Language.
 
 
 <!---
