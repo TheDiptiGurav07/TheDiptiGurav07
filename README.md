@@ -1,9 +1,7 @@
 ##Hello 👋
+I’m **Student Learning New Programming Language**
 
-I’m **Student Learning New Skill In coding journy.**
-
-I’m interested in Programming Language.
-
+I’m interested in Coding.
 python Developer
 
 
