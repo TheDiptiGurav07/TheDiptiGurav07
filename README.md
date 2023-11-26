@@ -1,9 +1,8 @@
-##Hello 👋
-
+## Hello 👋
 I’m **Student Learning New Programming Language**
 
-I’m interested in Coding.
-python Developer
+-I’m interested in Coding
+-python Developer
 
 
 <!---
